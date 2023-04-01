@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}
